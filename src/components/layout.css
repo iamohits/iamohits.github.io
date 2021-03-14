@@ -1,0 +1,16 @@
+html {
+  -ms-text-size-adjust    : 100%;
+  -webkit-text-size-adjust: 100%;
+  box-sizing              : border-box;
+  overflow-y              : scroll;
+}
+
+body {
+  margin                 : 0;
+  -webkit-font-smoothing : antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color                  : hsla(255, 100%, 100%, 0.9);
+  background-color       : hsla(0, 0%, 0%, 0.9);
+  font-weight            : normal;
+  word-wrap              : break-word;
+}

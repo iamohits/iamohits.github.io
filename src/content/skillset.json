@@ -1,0 +1,170 @@
+{
+    "skillsData":[{
+        "name": "Javascript",
+        "icon": "DiJsBadge",
+        "alias": "JS, JavaScript"
+    },
+    {
+        "name": "C#",
+        "icon": "SiCsharp",
+        "alias": "CS, CSharp, C-Sharp"
+    },
+    {
+        "name": "WPF",
+        "icon": "SiXaml",
+        "alias": "Windows Presentation Foundation,"
+    },
+    {
+        "name": "JQuery",
+        "icon": "DiJqueryLogo",
+        "alias": ""
+    },
+    {
+        "name": "HTML",
+        "icon": "DiHtml5",
+        "alias": ""
+    },
+    {
+        "name": "Node JS",
+        "icon": "DiNodejsSmall",
+        "alias": "Node, Node.js, NodeJS"
+    },
+    {
+        "name": "Photoshop",
+        "icon": "DiPhotoshop",
+        "alias": "PS, Photo-Shop"
+    },
+    {
+        "name": "PHP",
+        "icon": "DiPhp",
+        "alias": "PHP"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "DiPostgresql",
+        "alias": "Postgre-sql, Postgres"
+    },
+    {
+        "name": "React",
+        "icon": "DiReact",
+        "alias": "React, ReactJS, React.js"
+    },
+    {
+        "name": "Powershell",
+        "icon": "DiTerminal",
+        "alias": "CMD, Command Prompt, Windows Powershell"
+    },
+    {
+        "name": "Visual Studio",
+        "icon": "DiVisualstudio",
+        "alias": "VS, VS2019, VS2016"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "DiBootstrap",
+        "alias": "Bootstrap"
+    },
+    {
+        "name": "MySQL",
+        "icon": "DiMysql",
+        "alias": "My-SQL,"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "DiMongodb",
+        "alias": "Mongo, Mongo-DB, mongo db"
+    },
+    {
+        "name": "Git",
+        "icon": "DiGit",
+        "alias": "git, github"
+    },
+    {
+        "name": "Angular",
+        "icon": "SiAngular",
+        "alias": "Angular JS, AngularJS, Angular.js, Angular"
+    },
+    {
+        "name": "Gatsby",
+        "icon": "SiGatsby",
+        "alias": "Gatsbyjs, Gatsby.js, Gatsby JS"
+    },
+    {
+        "name": "Vue",
+        "icon": "SiVueDotJs",
+        "alias": "vuejs, vue.js, vue JS"
+    },
+    {
+        "name": "Nest",
+        "icon": "SiNextDotJs",
+        "alias": "Nestjs, Nest.js, Nest JS"
+    },
+    {
+        "name": "DotNet",
+        "icon": "SiDotNet",
+        "alias": ".Net"
+    },
+    {
+        "name": "MS Access",
+        "icon": "SiMicrosoftaccess",
+        "alias": "Microsoft Access, Access, MSAcess"
+    },
+    {
+        "name": "Azure",
+        "icon": "SiMicrosoftazure",
+        "alias": "Microsoft Azure, Azure"
+    },
+    {
+        "name": "SQL-Server",
+        "icon": "SiMicrosoftsqlserver",
+        "alias": "Microsoft SQL Server, SQL"
+    },
+    {
+        "name": "Netlify",
+        "icon": "SiNetlify",
+        "alias": ""
+    },
+    {
+        "name": "NPM",
+        "icon": "SiNpm",
+        "alias": "NPM, Node Package Manager,"
+    },
+    {
+        "name": "HTTPS",
+        "icon": "SiOpenssl",
+        "alias": "OpenSSL, Open SSL, SSL, Https"
+    },
+    {
+        "name": "Paypal",
+        "icon": "SiPaypal",
+        "alias": ""
+    },
+    {
+        "name": "Postman",
+        "icon": "SiPostman",
+        "alias": "API Development, Post-man"
+    },
+    {
+        "name": "TypeScript",
+        "icon": "SiTypescript",
+        "alias": "TS, Type-Script"
+    },
+    {
+        "name": "Studio Code",
+        "icon": "SiVisualstudiocode",
+        "alias": "VSC, Visual Studio Code"
+    },
+    {
+        "name": "XAMPP",
+        "icon": "SiXampp",
+        "alias": "xampp"
+    },
+    {
+        "name": "Oracle",
+        "icon": "SiOracle",
+        "alias": "Oracle"
+    }
+    
+    
+]
+}

@@ -1,0 +1,113 @@
+/* /* .aboutme {
+  background-color: #20d18b;
+  background-image: linear-gradient(135deg,
+      #20d18b 0%,
+      #f5f543 100%);
+  color            : #000;
+  height           : 100%;
+  border-top       : 0px;
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+  clip-path        : polygon(0 0, 100% 0, 100% 85%, 0 100%);
+  padding-bottom   : 10%;
+} */
+
+h2 {
+  text-align: center;
+  padding   : 30px;
+}
+
+
+p {
+  font-family: "Lucida Bright";
+}
+
+@media screen and (max-width: 960px) {
+  .col-md-3 {
+    text-align: center;
+  }
+}
+
+.aboutme {
+  background-color    : white;
+  /*rgba(228, 212, 212, 0.6);
+  /* background-image : linear-gradient(135deg, rgba(0,123,0,0.9) 25%, 75%, rgba(0,0,123,0.1)); */
+  color               : black;
+  height              : 100%;
+  border-top          : 0px;
+  -webkit-clip-path   : polygon(0 0, 100% 0, 100% 85%, 0 100%);
+  clip-path           : polygon(0 0, 100% 0, 100% 85%, 0 100%);
+  padding-bottom      : 10%;
+}
+
+@media screen and (max-width: 960px) {
+  .aboutme {
+    height           : 100%;
+    -webkit-clip-path: none;
+    clip-path        : none;
+  }
+}
+
+/*
+@media screen and (max-width: 960px) {
+  .aboutme .about-wrapper {
+    padding-bottom: 5rem;
+  }
+}
+
+.aboutme .about-wrapper__image {
+  display        : flex;
+  height         : 100%;
+  align-items    : center;
+  justify-content: center;
+}
+
+@media screen and (max-width: 960px) {
+  .aboutme .about-wrapper__image {
+    padding-bottom: 6.4rem;
+    height        : 100%;
+  }
+}
+
+.aboutme .about-wrapper__info {
+  display        : flex;
+  height         : 100%;
+  justify-content: center;
+  flex-direction : column;
+}
+
+@media screen and (max-width: 960px) {
+  .aboutme .about-wrapper__info {
+    align-items: center;
+  }
+}
+
+.aboutme .about-wrapper__info-text {
+  text-align: left;
+}
+
+@media screen and (max-width: 960px) {
+  .aboutme .about-wrapper__info-text {
+    font-size : 1.5rem;
+    text-align: center;
+    text-align: center;
+  }
+}
+
+.aboutme .about-wrapper__info-text--important {
+  background : #f5f53e;
+  display    : inline-block;
+  font-style : italic;
+  padding    : 0 0.3rem;
+  margin     : 0.3rem 0;
+  line-height: 1.6;
+}
+
+@media screen and (max-width: 960px) {
+  .aboutme .about-wrapper__info-text--important {
+    display   : inline;
+    margin    : 0;
+    padding   : 0;
+    background: transparent;
+    font-style: normal;
+  }
+} */
